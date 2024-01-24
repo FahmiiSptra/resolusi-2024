@@ -4,3 +4,4 @@ Resolusi awal front end
 - mempelajari css
 - mempelajari javascript
 - mempelajari framework css dan javascript
+
