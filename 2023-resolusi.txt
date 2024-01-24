@@ -3,4 +3,5 @@ Resolusi awal front end
 - mempelajari html dasar di website petanikode dan alwaysngoding
 - mempelajari css
 - mempelajari javascript
-- mempelajari framework
+- mempelajari framework css dan javascript
+
