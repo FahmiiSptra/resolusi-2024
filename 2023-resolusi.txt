@@ -10,7 +10,6 @@ Resolusi awal front end
   * css box model
   * css flexbox
   * css grid
-  * css responsive
 - mempelajari javascript
   * javascript dasar
   * javascript oop
