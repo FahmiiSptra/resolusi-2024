@@ -1,12 +1,15 @@
 Resolusi awal front end
 
 - mempelajari html dasar di website petanikode dan alwaysngoding
+  * w3schools
+  * web programming unpas
+  * programmer zaman now
+  * dea afrizal
 - mempelajari css
   * css dasar
   * css box model
   * css flexbox
   * css grid
-  * css responsive
 - mempelajari javascript
   * javascript dasar
   * javascript oop
